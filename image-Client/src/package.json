@@ -1,0 +1,10 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "description": "",
+  "main": "ClockClient.js",
+  "author": "Marie LEMDJO",
+  "dependencies": {
+    "request": "^2.87.0"
+  }
+}
